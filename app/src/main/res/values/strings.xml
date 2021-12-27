@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">madpropertypal3</string>
+    <string name="PropertyName">Property Name</string>
+    <string name="PropertyType">Property Type</string>
+    <string name="PropertyLeaseType">Property Lease Type</string>
+    <string name="PropertyLocation">Property Location</string>
+    <string name="PropertySize">Property Size</string>
+    <string name="PropertyAmenities">Property Amenities</string>
+    <string name="PropertyDescription">Property Description</string>
+    <string name="NumberofBedrooms">Number of Bedrooms</string>
+    <string name="NumberofBathrooms">Number of Bathrooms</string>
+    <string name="PropertyPrice">Property Price</string>
+    <string name="NumberofDoors">Number of Doors</string>
+    <string name="NumberofWindows">Number of Windows</string>
+    <string name="Day">Day</string>
+    <string name="Month">Month</string>
+    <string name="Year">Year</string>
+    <string name="Interest">Interest</string>
+    <string name="OfferPrice">Offered Price</string>
+    <string name="D">D</string>
+    <string name="M">M</string>
+    <string name="Y">Y</string>
+    <string name="ConditionsOffer">Conditions of offer</string>
+    <string name="ViewingComments">Viewing Comments</string>
+    <string name="EnterPropertyName">Enter Property Name</string>
+</resources>
